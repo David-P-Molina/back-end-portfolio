@@ -1,4 +1,4 @@
-xport default {
+export default {
     name: 'works',
     title: 'Works',
     type: 'document',
